@@ -31,7 +31,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Below are some of my skills I have acquired:",
     "education":[
       {
         "school":"Texas A&M University - College Station",
@@ -92,10 +92,11 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"WeekDaze",
+        "category":"WeekDaze is an application that tracks a users job search status. It allows for the user to have a log in, add new job leads, add milestones per each lead, and view a graphic of the amount of days its been since they have applied to a job.",
+        "image":"jobDashboard.png",
+        "deployed":"https://arcane-harbor-21800.herokuapp.com/",
+        "project_github": "https://github.com/JackieHodges/WeekDaze"
       },
       {
         "title":"Fury Fighting Gear",
